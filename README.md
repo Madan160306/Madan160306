@@ -2,9 +2,7 @@
 
 # B Madan Kumar
 
-**AI Developer · Full Stack Engineer · Edge AI Enthusiast**
-
-*Building intelligent systems that run at the edge — no cloud required.*
+**AI Developer · Full Stack Engineer · AI **
 
 [
 
@@ -30,7 +28,6 @@ Currently obsessed with **on-device AI**, **semantic search**, and **design syst
 
 - 🤖 Building a fully offline AI assistant for Android (Llama 3.2 + voice)
 - 🔍 Shipped a local semantic file search engine using FAISS + FastAPI
-- 🎨 Designing a production-grade UI system with React + TypeScript
 - 📍 Based in Kuppam, India · Open to remote internships
 
 ---
@@ -51,12 +48,6 @@ Currently obsessed with **on-device AI**, **semantic search**, and **design syst
 
 ---
 
-### 🖤 Obsidian Laboratory
-> A premium UI design system built for developers who care about aesthetics.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS
-
----
 
 ## Tech Stack
 
