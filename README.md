@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Madan160306/Madan160306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# B Madan Kumar
 
-Here are some ideas to get you started:
+**AI Developer · Full Stack Engineer · Edge AI Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building intelligent systems that run at the edge — no cloud required.*
+
+[
+
+![Email](https://img.shields.io/badge/Gmail-bmadankumar402@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+
+](mailto:bmadankumar402@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Madan160306-181717?style=flat&logo=github)
+
+](https://github.com/Madan160306)
+
+</div>
+
+---
+
+## About Me
+
+3rd-year Computer Science student at Kuppam Engineering College, Andhra Pradesh.
+I don't wait for classes to teach me — I build things.
+
+Currently obsessed with **on-device AI**, **semantic search**, and **design systems that don't look generic**.
+
+- 🤖 Building a fully offline AI assistant for Android (Llama 3.2 + voice)
+- 🔍 Shipped a local semantic file search engine using FAISS + FastAPI
+- 🎨 Designing a production-grade UI system with React + TypeScript
+- 📍 Based in Kuppam, India · Open to remote internships
+
+---
+
+## Projects
+
+### 🧠 JK — On-Device AI Assistant
+> Android AI assistant that runs entirely offline. Wake word detection, voice lock, self-destruct protocol.
+
+**Stack:** Llama 3.2 · Vosk STT · Coqui TTS · Porcupine · Python
+
+---
+
+### 🔍 Offline Semantic File Search
+> Search your local files by meaning, not keywords. Fully containerized, no internet needed.
+
+**Stack:** Python · FastAPI · FAISS · Sentence Transformers · React · Docker
+
+---
+
+### 🖤 Obsidian Laboratory
+> A premium UI design system built for developers who care about aesthetics.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS
+
+---
+
+## Tech Stack
+
+**AI/ML** — Llama · FAISS · Sentence Transformers · Scikit-learn · TensorFlow  
+**Backend** — Python · FastAPI · REST APIs  
+**Frontend** — React · TypeScript · Tailwind CSS · Vite  
+**Tools** — Docker · Git · Linux · Jupyter
+
+---
+
+## Currently
+
+- 📚 3rd Year B.Tech CSE · JNTUA R23 · Expected 2027
+- 🔨 Actively building · Always learning
+- 📬 Open to internship opportunities
+
+---
+
+<div align="center">
+
+*"I learn by breaking things and rebuilding them better."*
+
+</div>
