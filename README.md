@@ -2,7 +2,7 @@
 
 # B Madan Kumar
 
-**AI Developer · Full Stack Engineer · AI **
+**AI Developer · Full Stack Engineer · AI Enthusiast**
 
 [
 
